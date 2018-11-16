@@ -12,6 +12,8 @@ function yourAnimal(string) {
   return animal
 }
 
+yourAnimal('cat')
+
 function add2(n) {
   return n + two
 
